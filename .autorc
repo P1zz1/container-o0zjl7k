@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "P1zz1",
+  "repo": "container-o0zjl7k",
+  "name": "P1zz1",
+  "email": "stefano.pizzuto@hotmail.co.uk",
+}
